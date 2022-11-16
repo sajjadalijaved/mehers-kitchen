@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "402143200259",
+    "project_id": "food-app-ea8dc",
+    "storage_bucket": "food-app-ea8dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402143200259:android:3adae24972d53f6cda7a36",
+        "android_client_info": {
+          "package_name": "com.example.mehers_kitchen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402143200259-kugs6ls6tqvhse8fbuqskv4bpsmpkr27.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mehers_kitchen",
+            "certificate_hash": "5cafc8dde856738ace151947a6879bb91cfdd5bb"
+          }
+        },
+        {
+          "client_id": "402143200259-tilgjlkpcn3b84nb2fgeo88feklc05hr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu706UvmX4jb4gkoqmsONL1zbEMwFafVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402143200259-tilgjlkpcn3b84nb2fgeo88feklc05hr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
