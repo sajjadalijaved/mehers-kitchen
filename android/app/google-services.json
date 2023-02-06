@@ -14,11 +14,11 @@
       },
       "oauth_client": [
         {
-          "client_id": "402143200259-kugs6ls6tqvhse8fbuqskv4bpsmpkr27.apps.googleusercontent.com",
+          "client_id": "402143200259-q16jg57knpjg4f7c1ucncn96es4e67pb.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.mehers_kitchen",
-            "certificate_hash": "5cafc8dde856738ace151947a6879bb91cfdd5bb"
+            "certificate_hash": "2d69139d99e0f74275efad6a6fab8a9bce900a7b"
           }
         },
         {
