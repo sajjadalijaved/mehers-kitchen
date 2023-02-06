@@ -48,11 +48,9 @@ class _SplashScreenState extends State<SplashScreen> {
           child: Container(
             height: height * 0.4,
             width: width * 0.4,
-            decoration: const BoxDecoration(
-                color: Color(0Xff342b26), shape: BoxShape.circle),
-            child: const Image(
-              image: AssetImage('assets/splash_screen_lottie.gif'),
-            ),
+            decoration:
+                const BoxDecoration(color: Colors.white, shape: BoxShape.circle),
+            child: Lottie.asset('assets/splash_screen_lottie.json'),
           ),
         ),
       ),
